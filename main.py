@@ -1,0 +1,1 @@
+print("Привіт i`m Sasha")
